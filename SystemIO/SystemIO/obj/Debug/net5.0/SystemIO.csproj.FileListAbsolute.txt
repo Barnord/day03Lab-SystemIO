@@ -1,0 +1,16 @@
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIO.exe
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIO.deps.json
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIO.runtimeconfig.json
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIO.runtimeconfig.dev.json
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIO.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\ref\SystemIO.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIO.pdb
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIO.csproj.AssemblyReference.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIO.AssemblyInfoInputs.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIO.AssemblyInfo.cs
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIO.csproj.CoreCompileInputs.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIO.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\ref\SystemIO.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIO.pdb
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIO.genruntimeconfig.cache

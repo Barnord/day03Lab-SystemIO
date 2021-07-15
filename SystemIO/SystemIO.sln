@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIOChallenges", "SystemIO\SystemIOChallenges.csproj", "{6FF36138-9D90-43D7-ACFE-F8328CB3AE9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3tests", "lab3tests\lab3tests.csproj", "{C5CAF125-3ED2-43AC-83D8-0522593A2D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF36138-9D90-43D7-ACFE-F8328CB3AE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF36138-9D90-43D7-ACFE-F8328CB3AE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF36138-9D90-43D7-ACFE-F8328CB3AE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF36138-9D90-43D7-ACFE-F8328CB3AE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CAF125-3ED2-43AC-83D8-0522593A2D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CAF125-3ED2-43AC-83D8-0522593A2D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CAF125-3ED2-43AC-83D8-0522593A2D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CAF125-3ED2-43AC-83D8-0522593A2D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA62F02-332B-4B43-B005-3A7A0395BCFF}
+	EndGlobalSection
+EndGlobal

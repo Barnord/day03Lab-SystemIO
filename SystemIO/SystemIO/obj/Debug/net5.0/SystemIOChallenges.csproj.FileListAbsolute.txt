@@ -1,0 +1,16 @@
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIOChallenges.exe
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIOChallenges.deps.json
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIOChallenges.runtimeconfig.json
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIOChallenges.runtimeconfig.dev.json
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIOChallenges.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\ref\SystemIOChallenges.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\bin\Debug\net5.0\SystemIOChallenges.pdb
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIOChallenges.csproj.AssemblyReference.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIOChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIOChallenges.AssemblyInfoInputs.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIOChallenges.AssemblyInfo.cs
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIOChallenges.csproj.CoreCompileInputs.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIOChallenges.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\ref\SystemIOChallenges.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIOChallenges.pdb
+C:\Users\gordn\Documents\projects\codefellows\401net\day03Lab-SystemIO\SystemIO\SystemIO\obj\Debug\net5.0\SystemIOChallenges.genruntimeconfig.cache
